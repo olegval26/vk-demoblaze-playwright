@@ -9,9 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://img.shields.io/badge/Go-1.25-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-    <img src="https://img.shields.io/badge/Go-1.25-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go 1.25" />
-  </a>
+  <img src="https://img.shields.io/badge/Go-1.25-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go 1.25" />
   <img src="https://img.shields.io/badge/Playwright-0.6201.1-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright Go 0.6201.1" />
   <a href="https://github.com/olegval26/vk-demoblaze-playwright/actions/workflows/playwright.yml">
     <img src="https://github.com/olegval26/vk-demoblaze-playwright/actions/workflows/playwright.yml/badge.svg" alt="GitHub Actions workflow status" />
@@ -49,6 +47,7 @@ go test -v ./...
 ```text
 .
 ├── .github/workflows/playwright.yml
+├── assets/cart-flow.svg
 ├── cart_test.go
 ├── go.mod
 └── README.md
